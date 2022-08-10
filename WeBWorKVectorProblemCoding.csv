@@ -1,0 +1,78 @@
+Problem # from webwork pdf (yellow is multi part),global usage,attempts,status,comp/calc (Ellis et al.),grph/ geom int,context appl,proof rsng jstfctn,secondary rsng jstifctn,"defining prop/critical features (CF), vector operations (VO), both (B)",Connection codes (conceptual connections),# of codes used for prob,Single codes only (can be greater than 1),V,X,D,VM,A,B,VA,S,Mult or conn codes (coded 0 for none and 1 for presence),Involving VM,Involving S,Involving D,Involving A,Involving VA,Involving VD,Involving VS,Involving X,Involving B,Involving P,Involving O,"By PROB (very low =1, low proc = 2, very high =3)",Very Low memorization,Low procs no conctns,High procs w/ conctns,Very High doing math,"By PROB (2D = 2, 3D = 3)",vectors         in 2D,vectors           in 3D,vectors           in >3D,PROB  # of vector reps,PROB posed w/ graphed vectors g,PROB posed w/ basis vectors b,PROB posed w/ column vectors c,PROB posed w/ ordered n-tuple n,PROB posed w/verbal descrip of vectors (might include quants) v,PROB posed w/ pts (endpts) as implicit descrptn of vector e,By PROB answer is: (rep'l conn),By PROB answer is: (rep'l conn),answer contains vector,answer contains angle,answer contains other,answer contains scalar,answer conains vector and scalar,PROB answered w/ basis vectors B,PROB answered w/ column vectors C,PROB answered w/ ordered n-tuple N,PROB answered w/verbal descrip of vectors (might include quants) W,NOTES:
+Totals,,,,43,23,10,0,2,,,25,42,18,5,5,5,2,2,0,1,51,28,26,19,18,15,14,11,7,5,3,2,,1,51,19,5,,30,44,2,,6,21,7,18,19,23,,,45,7,9,26,,14,4,26,1,
+1,3,4.33,100,1,,,,,CF,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,find vector given points on directed segment
+2,79,2.48,89,1,,,,,B,X-VM,2,,,,,,,,,,1,1,,,,,,,1,,,,3,,,1,,3,,1,,1,,,,,,1,scalar,scalar,0,0,0,1,,,,,,find area of parallelogram given points
+4,954,1.88,90,1,,,,,VO,D,1,1,,,1,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,1,,,,,geom,,scalar,scalar,0,0,0,1,,,,,,find dot product
+5,510,3.48,82,1,,,,,CF,VS (unit) -VD,2,,,,,,,,,,1,,,,,,1,1,,,,,2,,1,,,2,1,,,1,,1,,,,,vector,vector,1,0,0,0,,,,1,,find unit vector in same direction (rated as low since formula typically given to students by instructor)
+6,484,1.90,100,1,,,,,B,X-VM,2,,,,,,,,,,1,1,,,,,,,1,,,,3,,,1,,2,1,,,1,,,,,,1,scalar,scalar,0,0,0,1,,,,,,find area of parallelogram given points
+8,1623,1.99,99,1,,,,,B,"D-VA, D-VM",3,,,,,,,,,,1,1,,1,,1,,,,,,,2,,1,,,3,,1,,1,,1,,,,,angle,angle,0,1,0,0,,,,,,find angle between vectors
+9,528,3.34,97,1,,,,,VO,X,1,1,,1,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,1,,,,,vector,vector,1,0,0,0,,,,1,,find the cross product
+10,9377,2.25,97,1,,,,,CF,"VD, VM",2,2,,,,,,,,,1,1,,,,,1,,,,,,2,,1,,,3,,1,,1,,,,1,,,vector,vector,1,0,0,0,,,,1,,find vector in same direction but different length
+11,444,5.64,86,,1,,,,,"D-VA, D-VM",3,,,,,,,,,,1,1,,1,,1,,,,,,,3,,,1,,3,,1,,1,,,,,,1,angle,angle,0,1,0,0,,,,,,find area of triangle given points
+12,137,2.89,98,1,,,,,,"VM, A, B, A-S",4,3,,,,1,1,1,,,1,1,1,,1,,,,,,,,2,,1,,,3,,1,,1,,1,,,,,scalar+vector,scalar+vector,1,0,0,1,1,,,1,,find magnitude of vector
+13,324,2.12,94,1,,,,,,X-D,2,,,,,,,,,,1,,,1,,,,,1,,,,2,,1,,,3,,1,,1,,,,1,,,scalar,scalar,0,0,0,1,,,,,,volume of parallelpiped determined by vectors (rated as low since formula typically given to students by instructor)
+14,8126,2.08,96,,1,,,,,D-O,2,,,,,,,,,,1,,,1,,,,,,,,1,3,,,1,,3,,1,,1,,,,1,,,scalar,scalar,0,0,0,1,,,,,,what values make vectors orthogonal
+15,812,3.49,95,1,,,,,,"D-VM, P-D, P-S",4,,,,,,,,,,1,1,1,1,,,,,,,1,,2,,1,,,3,,1,,1,,,,1,,,scalar+vector,scalar+vector,1,0,0,1,1,,,1,,scalar projection
+16,782,3.83,99,,1,,,,,"X-O, X-VM",3,,,,,,,,,,1,1,,,,,,,1,,,1,3,,,1,,3,,1,,1,,,,,,1,scalar+vector,scalar+vector,1,0,0,1,1,,,1,,orthogonal vector to triangle (given three points)
+17,1315,2.33,99,1,,,,,,D,1,1,,,1,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,1,,,,,scalar,scalar,0,0,0,1,,,,,,find dot product
+18,767,5.04,95,,1,,,,,"A-S, B, B-S",3,1,,,,,,1,,,1,,1,,1,,,,,1,,,3,,1,,,3,,1,,2,1,,,1,,,vector,vector,1,0,0,0,,,,1,,vector addition with scalar multiplication
+19,9767,3.05,91,,1,,,,,D-VA,2,,,,,,,,,,1,,,1,,1,,,,,,,3,,,1,,2,1,,,1,1,,,,,,other (word),words,0,0,1,0,,,,,,"dot product (positive, negative or zero)"
+21,85,4.71,91,,,1,,,,"V, S, A-S",3,1,1,,,,,,,,1,,1,,1,,,,,,,,3,,1,,,3,,1,,2,,,1,,words,,scalar+vector,scalar+vector,1,0,0,1,1,,1,,,verbal problem intrepreting info in matrix
+22,127,1.48,100,1,,,,,,B-S,2,,,,,,,,,,1,,1,,,,,,,1,,,2,,1,,,3,,1,,1,,,1,,,,vector,vector,1,0,0,0,,,1,,,vector subtraction and scalar multiplication
+23,69,2.70,98,,,1,,,,"V, S, A-S",3,2,1,,,,,,,,1,,1,,1,,,,,,,,3,,1,,,2,1,,,2,,,1,,words,,scalar+vector,scalar+vector,1,0,0,1,1,,1,,,verbal problem interpreting vector addition and scalar multiplication
+24,172,1.98,99,1,,,,,,A-S,2,,,,,,,,,,1,,1,,1,,,,,,,,2,,1,,,2,1,,,1,,,1,,,,scalar,scalar,0,0,0,1,,,,,,solve vector equation involving adding and scalar multiplication
+25,140,1.59,100,1,,,,,,"A-S, B-S",3,,,,,,,,,,1,,1,,1,,,,,1,,,2,,1,,,3,,1,,1,,,1,,,,vector,vector,1,0,0,0,,,1,,,"compute using vector addition, subtraction, and scalar multiplication"
+26,446,3.52,97,1,,,,,,"A-S, B-S",3,,,,,,,,,,1,,1,,1,,,,,1,,,2,,1,,,3,,1,,1,,1,,,,,vector,vector,1,0,0,0,,1,,,,"compute using vector addition, subtraction, and scalar multiplication"
+27,76,2.28,99,,1,,,,,"VS-VM, A-VM",3,,,,,,,,,,1,1,,,1,,,1,,,,,3,,,1,,2,1,,,2,,1,,,geom,,vector,vector,1,0,0,0,,1,,,,solve for vector component given magnitude
+29,542,2.66,85,,,1,,,,"VS-D, S-VM, S-VD, A-VS",6,,,,,,,,,,1,1,1,1,1,,1,1,,,,,4,,,,1,2,1,,,1,,,,,phys,,vector,vector,1,0,0,0,,1,,,,vehicles traveling on perpendicular roads
+30,860,5.81,85,,1,,,,,S-VD,2,,,,,,,,,,1,,1,,,,1,,,,,,3,,,1,,2,1,,,1,,1,,,,,scalar,scalar,0,0,0,1,,,,,,solving for parallel vectors
+32,455,4.24,92,,1,,,,,"VD-VM, VS-VM, A-VS",4,,,,,,,,,,1,1,,,1,,1,1,,,,,3,,,1,,3,1,,,1,,,,,geom,,vector,vector,1,0,0,0,,1,,,,compute vector given length and angle
+33,452,1.67,100,1,,,,,,VM,1,1,,,,1,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,1,,,,,vector,vector,1,0,0,0,,1,,,,compute length of vectors
+34,236,6.61,75,,,1,,,,"A-VM, VA",3,1,,,,,,,,,1,1,,,1,1,,,,,,,4,,,,1,2,1,,,1,,,,,phys,,angle+vector,angle+vector,1,1,0,0,,,,,1,classic rowing across river problem
+35,18,5.50,72,,,1,,,,A-VM,2,,,,,,,,,,1,1,,,1,,,,,,,,4,,,,1,3,,1,,1,,,,,phys,,scalar,scalar,0,0,0,1,,,,,,classic airspeed to groundspeed problem
+36,637,1.71,97,,,1,,,,"A-VS, VM",3,1,,,,,,,,,1,1,,,1,,,1,,,,,3,,,1,,2,1,,,2,,1,,,phys,,scalar,scalar,0,0,0,1,,,,,,"comparing magnitude of vectors in i, j, k (connecting velocity to magnitude)"
+38,1,3.00,100,,1,,,,,"VS-VD, VS-VM, S-VS",4,,,,,,,,,,1,1,1,,,,1,1,,,,,3,,,1,,3,,1,,2,,,,,geom,1,vector,vector,1,0,0,0,,1,,,,find vector components using geom description
+40,176,3.02,93,,1,,,,,"X-VM, X-VA, D-VA, VM",4,1,,,,,,,,,1,1,,1,,1,,,1,,,,4,,,,1,3,,1,,2,,1,,,geom,,angle,angle,0,1,0,0,,,,,,"combining magnitude of cross product and dot product to determine angles (i,j,k)"
+42,721,3.23,91,,1,,,,,"X-VM, X-VA, D-VA",4,,,,,,,,,,1,1,,1,,1,,,1,,,,3,,,1,,3,,1,,1,,,,,geom,,angle,angle,0,1,0,0,,,,,,combining magnitude of cross product and dot product to determine angles
+44,20,3.65,90,,1,,,,,"VA, VM, D-VA",3,2,,,,,,,,,1,1,,1,,1,,,,,,,3,,,1,,2,1,,,1,,1,,,,,vector,vector,1,0,0,0,,1,,,,finding vector components from geom description (involving angle bisection)
+46,6,3.00,100,,1,,,,,"D-VA, VM",3,1,,,,,,,,,1,1,,1,,1,,,,,,,3,,,1,,3,,1,,1,,,,,geom,,scalar,scalar,0,0,0,1,,,,,,finding angle between diagonals of a box
+47,8039,9.44,69,,,1,,,,"P-VD, P-D, P-VA, D, P-S",5,1,,,1,,,,,,1,,1,1,,1,1,,,,1,,2,,,1,,2,1,,,2,,1,,,phys,,scalar+vector,scalar+vector,1,0,0,1,1,1,,,,vector projection
+48,589,3.95,99,,,1,,,,"A, VD-VM",3,1,,,,,,,,,1,1,,,1,,1,,,,,,3,,,1,,2,1,,,2,,1,,,phys,,vector,vector,1,0,0,0,,1,,,,vector impact on plane velocity
+50,7652,9.77,84,,1,,,,,"D-VA, S-VD",4,,,,,,,,,,1,,1,1,,1,1,,,,,,2,,1,,,3,,1,,1,,1,,,,,vector,vector,1,0,0,0,,1,,,,"dot product (find vectors that are perpendicular, parallel, acute, obtuse)"
+51,352,4.82,91,1,,,,,,"D, S, D-S",2,2,,,1,,,,,1,1,,1,1,,,,,,,,,2,,1,,,3,,1,,1,,1,,,,,scalar+vector,scalar+vector,1,0,0,1,1,1,,,,basic procedures involving dot products
+54,no stats,no stats,no stats,,1,,,1,,VA-VD OR D-VA ,3,,,,,,,,,,1,,,1,,1,1,,,,,,4,,,,1,3,,1,,2,,,,,geom,1,other (eqn) + other (explain),words,0,0,1,0,,,,,,finding the equation of a plane given two points; two possible methods to solve
+59,no stats,no stats,no stats,,1,,,,,VM,1,1,,,,1,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,2,,,,,geom,1,scalar,scalar,0,0,0,1,,,,,,finding distance between points
+63,76,5.50,97,1,,,,,,"V, S-VM, S-VD, S-VS",5,1,1,,,,,,,,1,1,1,,,,1,1,,,,,2,,1,,,4,,,1,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,finding vector given points
+66,71,4.30,97,1,,,,,,"VM, S-VM",2,1,,,,1,,,,,1,1,1,,,,,,,,,,2,,1,,,3,1,,,1,,,,,,1,scalar,scalar,0,0,0,1,,,,,,find vector length (could use distance formula but is same for vector magnitude)
+68,26,1.35,99,,1,,,1,,V,1,1,1,,,,,,,,,,,,,,,,,,,,1,1,,,,2,1,,,1,1,,,,,,other (explain),words,0,0,1,0,,,,,,two identical vectors graphed
+70,no stats,no stats,no stats,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,find vector given points
+72,117,2.41,100,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,2,,,,1,,1,other (point),point,0,0,1,0,,,,,,find point given vector and another point
+73,92,2.82,98,,1,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,2,,,,1,,1,other (point),point,0,0,1,0,,,,,,find endpoints of a vector
+74,132,1.67,99,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,find vector given points
+75,214,2.88,97,,1,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,1,1,,,,,,vector,vector,1,0,0,0,,,,1,,find vector given points graphically
+77,150,2.33,99,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,2,,,,1,,1,other (point),point,0,0,1,0,,,,,,find point given vector and another point
+79,no stats,no stats,no stats,,1,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,1,,,,,,vector,vector,1,0,0,0,,,,1,,find vector given points graphically
+81,34,2.29,100,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,find vector given points
+83,226,2.38,100,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,find vector given points
+84,100,2.47,83,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,find vector given points
+85,108,2.35,100,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,2,,,,1,,1,other (point),point,0,0,1,0,,,,,,find point given vector and another point
+86,246,2.94,98,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,2,1,,,2,,,,1,,1,other (point),point,0,0,1,0,,,,,,find point given vector and another point
+87,1170,1.97,99,,1,,,,,"D-VA, S-VD",4,,,,,,,,,,1,,1,1,,1,1,,,,,,2,,1,,,3,,1,,1,,,,1,,,other (word),words,0,0,1,0,,,,,,"dot product (vectors that are perpendicular, parallel, acute, obtuse)"
+90,169,1.91,97,1,,,,,,A-S,2,,,,,,,,,,1,,1,,1,,,,,,,,2,,1,,,2,1,,,1,,,1,,,,scalar,scalar,0,0,0,1,,,,,,solve vector equation involving adding and scalar multiplication
+91,106,2.08,99,1,,,,,,A-S,2,,,,,,,,,,1,,1,,1,,,,,,,,2,,1,,,3,,1,,1,,,1,,,,scalar,scalar,0,0,0,1,,,,,,solve vector equation involving adding and scalar multiplication
+92,1477,2.40,90,,,1,,,,"VS (0), VA",2,2,,,,,,,,,1,,,,,1,,1,,,,,2,,1,,,2,1,,,2,,1,,,phys,,vector,vector,1,0,0,0,,1,,,,adding forces
+94,43,1.77,100,,,1,,,,A-S,2,,,,,,,,,,1,,1,,1,,,,,,,,3,,,1,,4,,,1,2,,,,1,words,,vector,vector,1,0,0,0,,,,1,,add weighted vectors
+95,9683,3.24,97,,1,,,,,"A, A-S, B-S, VM",4,2,,,,1,1,,,,1,1,1,,1,,,,,1,,,2,,1,,,2,1,,,1,1,,,,,,scalar+vector,scalar+vector,1,0,0,1,1,,,1,,add graphed vectors
+96,675,3.39,88,1,,,,,,"D-VM, P-D, P-S",4,,,,,,,,,,1,1,1,1,,,,,,,1,,2,,1,,,2,1,,,1,,,,1,,,scalar+vector,scalar+vector,1,0,0,1,1,,,1,,scalar projection
+97,53,3.55,86,,1,,,,,"X-VD, X-VM",3,,,,,,,,,,1,1,,,,,1,,1,,,,3,,,1,,3,,1,,1,,,,,,1,scalar+vector,scalar+vector,1,0,0,1,1,,,1,,find vector orthogonal to triangle
+98,15,1.87,100,1,,,,,,D,1,1,,,1,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,,,1,,,scalar,scalar,0,0,0,1,,,,,,find dot product
+99,46,2.02,96,1,,,,,,V,1,1,1,,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,,,,,1,vector,vector,1,0,0,0,,,,1,,find the vector given points
+100,48,1.88,99,1,,,,,,"S-VS (unit), S-VM",3,,,,,,,,,,1,1,1,,,,,1,,,,,2,,1,,,3,,1,,1,,1,,,,,vector,vector,1,0,0,0,,,,1,,find unit vector
+101,103,3.23,87,1,,,,,,"S-VS (unit), S-VM",3,,,,,,,,,,1,1,1,,,,,1,,,,,2,,1,,,3,,1,,1,,,,1,,,vector,vector,1,0,0,0,,,,1,,find unit vector
+102,652,2.51,88,1,,,,,,D-VA,2,,,,,,,,,,1,,,1,,1,,,,,,,2,,1,,,2,1,,,1,,,,1,,,angle,angle,0,1,0,0,,,,,,find angle between vectors
+103,263,2.50,92,1,,,,,,D-VA,2,,,,,,,,,,1,,,1,,1,,,,,,,2,,1,,,3,,1,,1,,1,,,,,angle,angle,0,1,0,0,,,,,,find angle between vectors
+104,35,2.63,97,1,,,,,,X,1,1,,1,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,,,1,,,vector,vector,1,0,0,0,,,,1,,compute cross product
+105,64,1.86,97,1,,,,,,X,1,1,,1,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,1,,,,,vector,vector,1,0,0,0,,,,1,,compute cross product
+106,677,2.24,99,1,,,,,,X,1,1,,1,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,,,1,,,vector,vector,1,0,0,0,,,,1,,compute cross product
+107,422,2.16,98,1,,,,,,X,1,1,,1,,,,,,,,,,,,,,,,,,,2,,1,,,3,,1,,1,,1,,,,,vector,vector,1,0,0,0,,1,,,,compute cross product
+108,1194,3.71,87,1,,,,,,"S-VS (unit), S-VM, S-VD",4,,,,,,,,,,1,1,1,,,,1,1,,,,,3,,,1,,2,1,,,1,,,,,,1,vector,vector,1,0,0,0,,1,,,,find unit vector given two points
